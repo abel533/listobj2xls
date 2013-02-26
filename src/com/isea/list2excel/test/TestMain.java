@@ -55,7 +55,7 @@ public class TestMain {
 		testObj.setBirthday(new Date());
 		testObj.setCountry("J8");
 		testObj.setMoney(1000.0);
-		testObj.setName("User5");
+		testObj.setName("User4");
 		testObj.setStr1("1");
 		testObj.setStr2("2");
 		testObj.setStr3("3");
