@@ -30,3 +30,11 @@ columns:导出列的信息
 		name:列对应Object中的字段名，必须有标准的get方法
 		header:导出excel中显示的标题
 		width:列宽(单位像素)
+
+项目依赖：
+jxl.jar
+xstream中的:
+xmlpull-x.x.x.x.jar
+xpp3_min-x.x.x.jar
+xstream-x.x.x.jar
+
